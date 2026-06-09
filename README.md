@@ -1,3 +1,4 @@
+![hero-samosa](public/hero-samosa.png)
 # Samosa Selector
 
 **Samosa Selector** is an incremental game based on the concept of "Cookie Clicker," where users aim to produce as many samosas as possible by clicking on a central image. This project was developed as part of a web development lab to practice React state management and event handling.
